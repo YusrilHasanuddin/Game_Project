@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=BarP1
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BarP1\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=referenceName\ unitType\ initValue\ maximumValue
+comment1.target=BarP1(java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=void\ newImage()
+comment3.params=amount
+comment3.target=void\ add(int)
+comment4.params=amount
+comment4.target=void\ subtract(int)
+comment5.params=
+comment5.target=void\ checkValue()
+comment6.params=
+comment6.target=int\ getValue()
+numComments=7
